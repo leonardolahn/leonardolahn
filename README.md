@@ -1,181 +1,97 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:03120B,100:00B36B&height=200&section=header&text=LEONARDO%20LAHN&fontSize=50&fontColor=ffffff&desc=COMPUTER%20SCIENCE%20%7C%20JAVA%20%7C%20FULL-STACK%20WEB&descSize=18&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A1F,100:4B5320&height=150&section=header&text=LEONARDO%20LAHN&fontSize=44&fontColor=C8D5B9&animation=fadeIn&fontAlignY=42&desc=CS%20STUDENT%20%E2%80%A2%20JAVA%20%E2%80%A2%20FULL-STACK%20WEB&descSize=16&descColor=8FBC8F&descAlignY=70" alt="Leonardo Lahn" />
 
-```text
-╔══════════════════════════════════════╗
-║        SYSTEM INITIALIZATION         ║
-╠══════════════════════════════════════╣
-║                                      ║
-║ > Booting LeoOS...              [OK] ║
-║ > Loading Java runtime...       [OK] ║
-║ > Starting full-stack env...    [OK] ║
-║ > Connecting to GitHub...       [OK] ║
-║ > Comms link established...     [OK] ║
-║                                      ║
-║       SYSTEM ONLINE // WELCOME       ║
-╚══════════════════════════════════════╝
-```
-
-<h3>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&color=00FF9C&center=true&vCenter=true&width=600&lines=Computer+Science+Student+@+PUCRS+💻;Java+%7C+React+%7C+Node.js+%7C+TypeScript;Open+to+Work+-+Software+Dev+%26+IT+Support" alt="typing" />
-</h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=leonardolahn&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge)
+**🟢 STATUS: OPEN TO WORK**
 
 </div>
 
----
+<br>
 
-## `ABOUT ME`
+## 📋 DOSSIER
 
-<div align="center">
+| FIELD | DATA |
+|:--|:--|
+| **Name** | Leonardo Lahn Fernandes |
+| **Callsign** | `leonardolahn` |
+| **Base** | Porto Alegre, RS - Brazil |
+| **Training** | B.Sc. Computer Science @ PUCRS (2025 - 2029) |
+| **Specialty** | Java • Full-Stack Web • IT Support |
+| **Languages** | 🇧🇷 Portuguese (native) · 🇺🇸 English (professional) · 🇪🇸 Spanish (professional) |
 
-### `SYSTEM PROFILE`
+<br>
 
-</div>
+## 🎯 BRIEFING
 
-```yaml
-name: Leonardo Lahn Fernandes
-username: leonardolahn
-role: Computer Science Student @ PUCRS
-location: Porto Alegre, RS - Brazil
-focus:
-  - Software Development
-  - Algorithms & Data Structures
-  - Web Development (Full-Stack)
-  - Technical Support
-languages:
-  primary:
-    - Java
-    - TypeScript
-  spoken:
-    - Portuguese (native)
-    - English (professional)
-    - Spanish (professional)
-mindset:
-  - Disciplined
-  - Resilient
-  - Always learning
-mission: >
-  Build reliable software and solve real problems,
-  one line of code at a time.
-```
+> I study Computer Science at PUCRS on a full ProUni scholarship and I'm a Web Informatics technician.
+> Today I split my time between IT support at CEVS/RS and building my skills in Java and web development.
+> The Army taught me discipline, leadership and resilience. Software is where I put them to work.
 
-I'm a **Computer Science student at PUCRS** (full ProUni scholarship) and a **Web Informatics technician**. I'm interested in **Java programming** and **web projects** with React, Node.js, TypeScript and SQL, using Git/GitHub for version control.
+<br>
 
-Currently working as an **IT Support Intern at CEVS/RS**, and trained as a **Reserve Officer Cadet (Communications) at CPOR/PA, Brazilian Army**, which shaped my discipline, leadership and resilience.
+## 🛡️ ORDER OF BATTLE
 
-<div align="center">
+| CATEGORY | ARSENAL |
+|:--|:--|
+| **Core language** | ![Java](https://img.shields.io/badge/Java-1B2A1F?style=flat-square&logo=openjdk&logoColor=00FF9C) |
+| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-1B2A1F?style=flat-square&logo=typescript&logoColor=00FF9C) ![React](https://img.shields.io/badge/React-1B2A1F?style=flat-square&logo=react&logoColor=00FF9C) ![Node.js](https://img.shields.io/badge/Node.js-1B2A1F?style=flat-square&logo=nodedotjs&logoColor=00FF9C) |
+| **Data** | ![SQL](https://img.shields.io/badge/SQL-1B2A1F?style=flat-square&logo=mysql&logoColor=00FF9C) |
+| **Version control** | ![Git](https://img.shields.io/badge/Git-1B2A1F?style=flat-square&logo=git&logoColor=00FF9C) ![GitHub](https://img.shields.io/badge/GitHub-1B2A1F?style=flat-square&logo=github&logoColor=00FF9C) |
+| **CS fundamentals** | ![Big O](https://img.shields.io/badge/Big_O-4B5320?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-4B5320?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-4B5320?style=flat-square) ![Digital Systems](https://img.shields.io/badge/Digital_Systems-4B5320?style=flat-square) |
+| **Support** | ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4B5320?style=flat-square) ![Hardware](https://img.shields.io/badge/Hardware_%26_Mobile-4B5320?style=flat-square) ![E-mail Admin](https://img.shields.io/badge/E--mail_Admin-4B5320?style=flat-square) |
 
-`[ DISCIPLINE ]` ─── `[ LEARNING ]` ─── `[ BUILDING ]` ─── `[ EVOLVING ]`
+<br>
 
-</div>
+## 🗂️ SERVICE RECORD
 
----
+<details open>
+<summary><b>Experience & education</b></summary>
 
-## `FIELD EXPERIENCE`
+<br>
 
-<div align="center">
+| PERIOD | UNIT | ROLE |
+|:--|:--|:--|
+| 2025 - now | **CEVS/RS** (State Health Surveillance Center) | IT Support Intern |
+| 2025 - 2029 | **PUCRS** | B.Sc. Computer Science (ProUni full scholarship) |
+| 2025 - 2026 | **Colégio Estadual Protásio Alves** | Technical course, Web Informatics |
+| Oct - Nov 2024 | **CPOR/PA** | Panelist, III Students Congress: AI & strategic connectivity |
+| 2024 | **Brazilian Army - CPOR/PA** | Reserve Officer Cadet, declared Aspirante a Oficial (Communications) |
+| 2023 - 2024 | **Grupo RBS** | Administrative Assistant / Young Apprentice |
 
-### `MISSION LOG`
+</details>
 
-</div>
+<details>
+<summary><b>Certifications</b></summary>
 
-```yaml
-- role: IT Support Intern
-  org: Centro Estadual de Vigilância em Saúde (CEVS/RS)
-  since: 2025-05
-  ops:
-    - User support and troubleshooting
-    - Diagnosis of computers, printers and mobile devices
-    - Institutional e-mail management
-    - Support for internal systems
+<br>
 
-- role: Reserve Officer Cadet - Communications
-  org: Brazilian Army - CPOR/PA
-  period: 2024
-  ops:
-    - Leadership and team management training
-    - Panelist at the III CPOR/PA Students Congress (AI and strategic connectivity)
+- Technical Support Fundamentals
+- IT Essentials 7 (EsCom / CCOMGEX, Brazilian Army)
 
-- role: Administrative Assistant / Young Apprentice
-  org: Grupo RBS
-  period: 2023-2024
-```
+</details>
 
----
+<br>
 
-## `TECH STACK`
+## ⚙️ ACTIVE OPERATIONS
+
+- [x] Providing IT support at CEVS/RS
+- [ ] Strengthening Java and object-oriented programming
+- [ ] Building web projects with React, Node.js and TypeScript
+- [ ] Studying algorithms and complexity analysis (Big O)
+- [ ] Publishing my first projects on this profile
+
+<br>
+
+## 📡 COMMS CHANNELS
 
 <div align="center">
 
-### `CORE TECHNOLOGIES`
+[![GitHub](https://img.shields.io/badge/GitHub-leonardolahn-1B2A1F?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/leonardolahn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Lahn-1B2A1F?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/leonardolahn-fernandes-34745337a)
+[![Email](https://img.shields.io/badge/E--mail-Contact-1B2A1F?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:leonardolahnfernandes09@gmail.com)
 
-<img src="https://skillicons.dev/icons?i=java,ts,react,nodejs,mysql" />
+<br>
 
-<br><br>
-
-![Java](https://img.shields.io/badge/JAVA-0A0F0C?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0A0F0C?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/REACT-0A0F0C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/NODE.JS-0A0F0C?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![SQL](https://img.shields.io/badge/SQL-0A0F0C?style=for-the-badge&logo=mysql&logoColor=FFD166)
-
-</div>
-
----
-
-## `DEVELOPMENT ENVIRONMENT`
-
-<div align="center">
-
-### `TOOLS & ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br><br>
-
-![Git](https://img.shields.io/badge/GIT-0A0F0C?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-0A0F0C?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-0A0F0C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
----
-
-## `CERTIFICATIONS`
-
-<div align="center">
-
-`Technical Support Fundamentals` ─── `IT Essentials 7 (EsCom / CCOMGEX - Brazilian Army)`
-
-</div>
-
----
-
-## `CONNECT`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0A0F0C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardolahn)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0F0C?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/leonardolahn-fernandes-34745337a)
-[![Email](https://img.shields.io/badge/EMAIL-0A0F0C?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:leonardolahnfernandes09@gmail.com)
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│  "The future belongs to those        │
-│   who build it."                     │
-│                                      │
-│  SYSTEM STATUS: ONLINE               │
-│  DEVELOPER: LEONARDO LAHN            │
-│  CORE: JAVA + FULL-STACK WEB         │
-│  BASE: PORTO ALEGRE - RS             │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:03120B,100:00B36B&height=120&section=footer)
+`// END OF TRANSMISSION`
 
 </div>
