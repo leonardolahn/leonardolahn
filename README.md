@@ -15,7 +15,7 @@
 | **Name** | Leonardo Lahn Fernandes |
 | **Callsign** | `leonardolahn` |
 | **Base** | Porto Alegre, RS - Brazil |
-| **Training** | B.Sc. Computer Science @ PUCRS (2025 - 2029) |
+| **Training** | Computer Science @ PUCRS (2026 - 2029) |
 | **Specialty** | Java • Full-Stack Web • IT Support |
 | **Languages** | 🇧🇷 Portuguese (native) · 🇺🇸 English (professional) · 🇪🇸 Spanish (professional) |
 
