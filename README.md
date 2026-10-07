@@ -24,7 +24,7 @@
 ## 🎯 BRIEFING
 
 > I study Computer Science at PUCRS on a full ProUni scholarship and I'm a Web Informatics technician.
-> Today I split my time between IT support at CEVS/RS and building my skills in Java and web development.
+> Today I split my time between IT support at CEVS/RS and building my skills in Java.
 > The Army taught me discipline, leadership and resilience. Software is where I put them to work.
 
 <br>
