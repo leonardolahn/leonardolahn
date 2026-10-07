@@ -55,7 +55,7 @@
 | 2026 - 2029 | **PUCRS** | B.Sc. Computer Science (ProUni full scholarship) |
 | 2025 - 2026 | **Colégio Estadual Protásio Alves** | Technical course, Web Informatics |
 | Oct - Nov 2024 | **CPOR/PA** | Panelist, III Students Congress: AI & strategic connectivity |
-| 2024 | **Brazilian Army - CPOR/PA** | Reserve Officer Cadet, declared Aspirante a Oficial (Communications) |
+| 2024 | **Brazilian Army - CPOR/PA** | Officer Cadet (Aspirante a Oficial) in the Signal Corps (Arma de Comunicações) |
 | 2023 - 2024 | **Grupo RBS** | Administrative Assistant / Young Apprentice |
 
 </details>
