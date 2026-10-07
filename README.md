@@ -74,9 +74,9 @@
 
 ## ⚙️ ACTIVE OPERATIONS
 
-- [x] Providing IT support at CEVS/RS
+- [ ] Providing IT support at CEVS/RS
 - [ ] Strengthening Java and object-oriented programming
-- [ ] Building web projects with React, Node.js and TypeScript
+- [ ] Built web projects with React, Node.js and TypeScript
 - [ ] Studying algorithms and complexity analysis (Big O)
 - [ ] Publishing my first projects on this profile
 
@@ -87,8 +87,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-leonardolahn-1B2A1F?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/leonardolahn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Lahn-1B2A1F?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/leonardolahn-fernandes-34745337a)
-[![Email](https://img.shields.io/badge/E--mail-Contact-1B2A1F?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:leonardolahnfernandes09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Lahn-1B2A1F?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/leonardo-lahn-fernandes-34745337a/)
+[![Email](https://img.shields.io/badge/E--mail-Contact-1B2A1F?style=for-the-badge&logo=gmail&logoColor=00FF9C)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBxrrPCHqfQKrPBznqFvDvFNxfZRrHDWnLxlfmcFNmJrNxHskFMXQxSNLxBZPJdXDgRCJC)
 
 <br>
 
