@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A1F,100:4B5320&height=150&section=header&text=LEONARDO%20LAHN&fontSize=44&fontColor=C8D5B9&animation=fadeIn&fontAlignY=42&desc=CS%20STUDENT%20%E2%80%A2%20JAVA%20%E2%80%A2%20FULL-STACK%20WEB&descSize=16&descColor=8FBC8F&descAlignY=70" alt="Leonardo Lahn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2A1F,100:4B5320&height=150&section=header&text=LEONARDO%20LAHN&fontSize=44&fontColor=C8D5B9&animation=fadeIn&fontAlignY=42&desc=COMPUTER%20SCIENCE%20STUDENT%20%E2%80%A2%20JAVA%20%E2%80%A2%20FULL-STACK%20WEB&descSize=16&descColor=8FBC8F&descAlignY=70" alt="Leonardo Lahn" />
 
 **🟢 STATUS: OPEN TO WORK**
 
@@ -15,7 +15,7 @@
 | **Name** | Leonardo Lahn Fernandes |
 | **Callsign** | `leonardolahn` |
 | **Base** | Porto Alegre, RS - Brazil |
-| **Training** | Computer Science @ PUCRS (2026 - 2029) |
+| **Training** | B.Sc. Computer Science @ PUCRS (2026 - 2029) |
 | **Specialty** | Java • Full-Stack Web • IT Support |
 | **Languages** | 🇧🇷 Portuguese (native) · 🇺🇸 English (professional) · 🇪🇸 Spanish (professional) |
 
