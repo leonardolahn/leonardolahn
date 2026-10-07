@@ -52,7 +52,7 @@
 | PERIOD | UNIT | ROLE |
 |:--|:--|:--|
 | 2025 - now | **CEVS/RS** (State Health Surveillance Center) | IT Support Intern |
-| 2025 - 2029 | **PUCRS** | B.Sc. Computer Science (ProUni full scholarship) |
+| 2026 - 2029 | **PUCRS** | B.Sc. Computer Science (ProUni full scholarship) |
 | 2025 - 2026 | **Colégio Estadual Protásio Alves** | Technical course, Web Informatics |
 | Oct - Nov 2024 | **CPOR/PA** | Panelist, III Students Congress: AI & strategic connectivity |
 | 2024 | **Brazilian Army - CPOR/PA** | Reserve Officer Cadet, declared Aspirante a Oficial (Communications) |
