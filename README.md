@@ -17,7 +17,7 @@
 | **Base** | Porto Alegre, RS - Brazil |
 | **Training** | B.Sc. Computer Science @ PUCRS (2026 - 2029) |
 | **Specialty** | Java • Full-Stack Web |
-| **Languages** | 🇧🇷 Portuguese (native) · 🇺🇸 English (professional) · 🇪🇸 Spanish (professional) |
+| **Languages** | 🇧🇷 Portuguese (native) · 🇺🇸 English (intermediate) · 🇪🇸 Spanish (intermediate) |
 
 <br>
 
