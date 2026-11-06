@@ -16,7 +16,7 @@
 | **Callsign** | `leonardolahn` |
 | **Base** | Porto Alegre, RS - Brazil |
 | **Training** | B.Sc. Computer Science @ PUCRS (2026 - 2029) |
-| **Specialty** | Java • Full-Stack Web |
+| **Specialty** | Java • Web-Development |
 | **Languages** | 🇧🇷 Portuguese (native) · 🇺🇸 English (intermediate) · 🇪🇸 Spanish (intermediate) |
 
 <br>
